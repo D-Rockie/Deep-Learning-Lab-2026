@@ -1,4 +1,4 @@
-### Single Layer Perceptron
+# Single Layer Perceptron
  
 An implementation of a Single Layer Perceptron for binary classification using the Banknote Authentication dataset.
  
