@@ -1,4 +1,4 @@
- Single Layer Perceptron
+### Single Layer Perceptron
  
 An implementation of a Single Layer Perceptron for binary classification using the Banknote Authentication dataset.
  
@@ -21,5 +21,3 @@ An implementation of a Single Layer Perceptron for binary classification using t
 - Precision: 96.80%
 - Recall: 99.18%
 - F1-Score: 97.98%
-- XOR gate does not converge as it cannot be classified by a linearly separable boundary
- 
