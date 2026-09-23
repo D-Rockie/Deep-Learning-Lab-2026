@@ -1,1 +1,9 @@
+# Experiment 6 - RNN / LSTM / GRU sequence learning and video understanding
+# Python 3.11+ ; GPU optional (Kaggle T4/P100 tested)
 
+tensorflow==2.18.0
+numpy>=1.26,<2.2
+pandas>=2.1
+matplotlib>=3.8
+scikit-learn>=1.4
+opencv-python-headless>=4.9
